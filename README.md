@@ -234,3 +234,6 @@ This repository serves as the official landing page for Exchange Server 2003 SP2
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Exchange Server 2003 SP2 today!**
+
+---
+**Last updated:** 2026-09-08 14:00:30 UTC
