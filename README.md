@@ -236,4 +236,4 @@ This repository serves as the official landing page for Exchange Server 2003 SP2
 **Get the most recent version of Exchange Server 2003 SP2 today!**
 
 ---
-**Last updated:** 2026-09-27 21:44:21 UTC
+**Last updated:** 2026-09-28 00:09:11 UTC
